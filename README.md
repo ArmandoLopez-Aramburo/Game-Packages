@@ -12,3 +12,6 @@
 
 ### GameData Package
 - [X] Added in a base data script to store necessary game data.
+
+### Menu Package
+- [X] Added in a base Start Menu with Option, Exit, and Start.
