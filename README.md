@@ -15,3 +15,6 @@
 
 ### Menu Package
 - [X] Added in a base Start Menu with Option, Exit, and Start.
+
+### Turn Based Package
+- [X] Added in a skeleton for the turn based combat system.
