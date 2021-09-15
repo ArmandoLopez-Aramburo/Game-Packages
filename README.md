@@ -18,3 +18,6 @@
 
 ### Turn Based Package
 - [X] Added in a skeleton for the turn based combat system.
+
+### MultiSaveSystem
+- [X] Added in a multiple save system using binary encoder.
